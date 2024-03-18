@@ -1,0 +1,14 @@
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.AssemblyInfoInputs.cache
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.AssemblyInfo.cs
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.csproj.CoreCompileInputs.cache
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\bin\Debug\net8.0\RockPaperScissorsByMaxim.exe
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\bin\Debug\net8.0\RockPaperScissorsByMaxim.deps.json
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\bin\Debug\net8.0\RockPaperScissorsByMaxim.runtimeconfig.json
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\bin\Debug\net8.0\RockPaperScissorsByMaxim.dll
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\bin\Debug\net8.0\RockPaperScissorsByMaxim.pdb
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.dll
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\refint\RockPaperScissorsByMaxim.dll
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.pdb
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\RockPaperScissorsByMaxim.genruntimeconfig.cache
+C:\Users\garud\source\repos\RockPaperScissorsByMaxim\obj\Debug\net8.0\ref\RockPaperScissorsByMaxim.dll
